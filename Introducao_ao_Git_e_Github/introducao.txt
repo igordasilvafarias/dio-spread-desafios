@@ -1,0 +1,25 @@
+* Link para download do Git: https://git-scm.com/downloads
+
+* O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+* Para criar repositorios no Github faz necessario ter uma conta na plataforma (https://github.com/).
+
+* Comando para clonar:
+
+    - git clone "aqui vai o link do repositorio sem as aspas"
+
+* Comando para verificar status do repositorio apos clonado na maquina:
+
+    - git status
+
+* Comando para adicionar todos os arquivos modificados ou adicionados no projeto:
+
+    - git add .
+
+* Comando para realizar um commit com uma mensagem:
+
+    - git commit -m "aqui vai a sua mensagem, usando as aspas"
+
+* Comando para enviar:
+
+    - git push origin main
