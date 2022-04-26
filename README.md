@@ -10,3 +10,6 @@ Repositório para os desafios do bootcamp da Spread Fullstack Developer na plata
    * Realizar o push do projeto apos todos os itens anteriores forem executados;
    * E por ultimo verificar as modificações na plataforma do Github.
    * [Link para as sintax basicas do markdown.](https://www.markdownguide.org/basic-syntax/)
+  
+2. ***Pasta Aulas:***
+   * Adicionado codigos realizados durante as aulas de HTML e CSS.
