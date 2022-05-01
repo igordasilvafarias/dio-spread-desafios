@@ -11,5 +11,9 @@ Repositório para os desafios do bootcamp da Spread Fullstack Developer na plata
    * E por ultimo verificar as modificações na plataforma do Github.
    * [Link para as sintax basicas do markdown.](https://www.markdownguide.org/basic-syntax/)
   
-2. ***Pasta Aulas:***
-   * Adicionado codigos realizados durante as aulas de HTML e CSS.
+2. ***Aulas HTML5 e CSS3:***
+   * Adicionado codigos realizados durante as aulas de HTML5 e CSS3.
+  
+3. ***Aulas Flexbox:***
+   * Adicionado codigos realizados durante as aulas de Flexbox.
+
