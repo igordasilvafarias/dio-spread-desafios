@@ -20,3 +20,5 @@ Repositório para os desafios do bootcamp da Spread Fullstack Developer na plata
 4. ***Projeto Flexbox:***
    * Adicionado codigos do projeto realizado nas aulas de Flexbox.
 
+5. ***Desafio tela Instagram:***
+   * Adicionado codigos do desafio tela de login do Instagram usando HTML, CSS e Flexbox.
