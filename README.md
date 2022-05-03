@@ -17,3 +17,6 @@ Repositório para os desafios do bootcamp da Spread Fullstack Developer na plata
 3. ***Aulas Flexbox:***
    * Adicionado codigos realizados durante as aulas de Flexbox.
 
+4. ***Projeto Flexbox:***
+   * Adicionado codigos do projeto realizado nas aulas de Flexbox.
+
